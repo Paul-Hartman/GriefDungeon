@@ -15,14 +15,17 @@ https://user-images.githubusercontent.com/78393505/155409473-4d38891a-71e1-495c-
 
 ![DenialBP](https://user-images.githubusercontent.com/78393505/155419426-3bae5e34-88f3-43fa-ad85-dc2e578f763b.png)
 
+<ins>Anger</ins><br>
 
 
 https://user-images.githubusercontent.com/78393505/155409005-2b6f4b23-25b5-468d-97ff-01f39c8019c4.mp4
 
+![AngerBP1](https://user-images.githubusercontent.com/78393505/155421803-3bbb3f70-4e4b-45d8-9abe-8fc54b1aabd0.png)
 
 
 
 
+![AngerBP2](https://user-images.githubusercontent.com/78393505/155421814-d0906783-50c0-4e2c-be57-babbbf778150.png)
 
 
 
