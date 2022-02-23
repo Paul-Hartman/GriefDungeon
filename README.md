@@ -30,18 +30,26 @@ https://user-images.githubusercontent.com/78393505/155409005-2b6f4b23-25b5-468d-
 
 
 <ins>Bargaining</ins><br>
-For the Bargaining level you need to 
+For the Bargaining level you need to trade some coins for a peice of treasure to unlock the doors. The doors are supposed to be a Mortons Fork meaning something that looks like a choice but isnt because both doors go to the same room full of lasers. For the skeletons I made a collider under the chained skeleton that casts to the coin blueprint and increments a counter that once it reaches 4 makes the treasure detach from actor and simulate physics so you can bring it over to the other skeleton which it attaches to and switches a boolean letting the doors open. In the laser room I made a blueprint for a particle effect that turns on and off and sets a collider that does damage to the player on and off based on the particle effect. I set the different laser blueprints delay intervals to multiples of 2 so they would alternate and sometimes all turn on at once. If the player loses to much health the first person charachter is destroyed and it sets off the OnPlayerDeath function in the first person game mode. This function puts up a death widget then respawns the charachter at the last checkpoint they crossed and then possesses the pawn.
 
 
 https://user-images.githubusercontent.com/78393505/155412219-29a48d79-e805-45b3-9f67-eb315e8e829f.mp4
+![LaserBP](https://user-images.githubusercontent.com/78393505/155426221-907ab49c-cfaa-4a3d-a2c6-2ed0fe9c4e05.png)
 
 
 
+![DeathBP](https://user-images.githubusercontent.com/78393505/155426230-242cc8bb-5e1b-4e65-bbed-b7d71789703d.png)
 
-
+<ins>Depression</ins><br>
+For the Depression level the charachter is slowed over time to a crawl and they need to make a leap of faith to break out of it. I did this by making a collider in the doorway that activates the slow funciton. This decreases the players energy on the event tick with .3 second delays, the level of energy is then used to set the players movement speed decreaseing until it reaches 10. Jumping down the tube resets these variables.
 https://user-images.githubusercontent.com/78393505/155412924-09e17555-b0f9-48d7-84a7-a702d0526a4e.mp4
 
+![DepressionBP](https://user-images.githubusercontent.com/78393505/155427667-395eee21-5d3b-458b-872a-20df3dcc257b.png)
 
 
 https://user-images.githubusercontent.com/78393505/155414812-37982697-ecaf-499e-9f60-0db29d3d863c.mp4
 
+![FanBP](https://user-images.githubusercontent.com/78393505/155430385-00eae8fb-ea35-4bab-9007-7bbb46ed7571.png)
+
+
+![AcceptanceBP](https://user-images.githubusercontent.com/78393505/155430371-aaf33aff-0f98-466e-b3a6-6af0df0be366.png)
