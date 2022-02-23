@@ -2,7 +2,7 @@
 This is a small game I made for a project for the Tech Academy. Each Level is meant to represent one of the stages of grief.
 
 Denial-
-For this level I
+For this level I wanted to represent Denial by making the player take damage if they look at the statue. To do this I set up a line trace from the first person camera that operated on the event tick. This line trace was activated and deactivated by colliders at the entrance and exit of the room. If the line trace hit the statue it would call the Lose Health function and decrement the health variable that I mapped to a health bar on the screen. If the player health got to zero it would destroy the actor and call the function controlling the death functionality that I will show later.
 
 
 
