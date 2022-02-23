@@ -34,6 +34,7 @@ For the Bargaining level you need to trade some coins for a peice of treasure to
 
 
 https://user-images.githubusercontent.com/78393505/155412219-29a48d79-e805-45b3-9f67-eb315e8e829f.mp4
+
 ![LaserBP](https://user-images.githubusercontent.com/78393505/155426221-907ab49c-cfaa-4a3d-a2c6-2ed0fe9c4e05.png)
 
 
@@ -42,6 +43,7 @@ https://user-images.githubusercontent.com/78393505/155412219-29a48d79-e805-45b3-
 
 <ins>Depression</ins><br>
 For the Depression level the charachter is slowed over time to a crawl and they need to make a leap of faith to break out of it. I did this by making a collider in the doorway that activates the slow funciton. This decreases the players energy on the event tick with .3 second delays, the level of energy is then used to set the players movement speed decreaseing until it reaches 10. Jumping down the tube resets these variables.
+
 https://user-images.githubusercontent.com/78393505/155412924-09e17555-b0f9-48d7-84a7-a702d0526a4e.mp4
 
 ![DepressionBP](https://user-images.githubusercontent.com/78393505/155427667-395eee21-5d3b-458b-872a-20df3dcc257b.png)
