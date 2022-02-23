@@ -1,6 +1,9 @@
 # GriefDungeon
 This is a small game I made for a project for the Tech Academy. Each Level is meant to represent one of the stages of grief.
 
+Denial-
+For this level I
+
 
 
 
@@ -10,6 +13,7 @@ https://user-images.githubusercontent.com/78393505/155409473-4d38891a-71e1-495c-
 
 
 
+![DenialBP](https://user-images.githubusercontent.com/78393505/155419426-3bae5e34-88f3-43fa-ad85-dc2e578f763b.png)
 
 
 
