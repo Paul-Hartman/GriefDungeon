@@ -30,13 +30,13 @@ https://user-images.githubusercontent.com/78393505/155409005-2b6f4b23-25b5-468d-
 
 
 <ins>Bargaining</ins><br>
-For the Bargaining level 
+For the Bargaining level you need to 
 
 
 https://user-images.githubusercontent.com/78393505/155412219-29a48d79-e805-45b3-9f67-eb315e8e829f.mp4
 
-![Bargaining](https://user-images.githubusercontent.com/78393505/155424723-9c0e3c81-1d3a-4fdf-83fe-dae7bc441eed.png)
-![Bargaining2](https://user-images.githubusercontent.com/78393505/155424741-f4592c1f-3fa3-46ec-81ea-6df289057924.png)
+
+
 
 
 https://user-images.githubusercontent.com/78393505/155412924-09e17555-b0f9-48d7-84a7-a702d0526a4e.mp4
