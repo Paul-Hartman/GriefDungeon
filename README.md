@@ -1,4 +1,4 @@
-# GriefDungeon
+# Grief Dungeon
 ### This is a small game I made for a project for the Tech Academy. Each Level is meant to represent one of the stages of grief.
 
 <ins>Denial</ins><br>
@@ -48,6 +48,8 @@ https://user-images.githubusercontent.com/78393505/155412924-09e17555-b0f9-48d7-
 
 ![DepressionBP](https://user-images.githubusercontent.com/78393505/155427667-395eee21-5d3b-458b-872a-20df3dcc257b.png)
 
+<ins>Acceptance</ins><br>
+The Acceptance level is a long winding path up a spiral staircase lighting lanterns all the way to the top. Then you walk on a winding bridge outside of the dungeon while avoiding obsticles until you get back to the first level. Now looking at the statue heals you and then makes you win the game. Getting to the end of the bridge triggers a OnBeginOverlap event which plays a level sequence that opens the grate and spins the statue as well as switching a boolean that makes looking at the statue trigger the GainLife function.
 
 https://user-images.githubusercontent.com/78393505/155414812-37982697-ecaf-499e-9f60-0db29d3d863c.mp4
 
